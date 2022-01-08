@@ -11,7 +11,7 @@
   ],
   "footer": "",
   "protectedRoutes": [
-    "Private"
+    "/Private"
   ],
   "email": "",
   "links": []
