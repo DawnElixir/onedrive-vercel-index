@@ -11,7 +11,7 @@
   ],
   "footer": "",
   "protectedRoutes": [
-    "/Share/Archive/Private"
+    "Private"
   ],
   "email": "",
   "links": []
