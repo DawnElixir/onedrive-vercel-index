@@ -11,9 +11,8 @@
   ],
   "footer": "",
   "protectedRoutes": [
-    "/Private",
-    "/🥟 Some test files/Protected route"
+    "/Share/Archive/Private"
   ],
-  "email": "mailto:spencer.wushangbo@gmail.com",
+  "email": "",
   "links": []
 }
