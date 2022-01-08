@@ -2,7 +2,7 @@
   "userPrincipalName": "x@hlhdawn.com",
   "icon": "/icons/128.png",
   "title": "Dawn's OneDrive",
-  "baseDirectory": "/Public",
+  "baseDirectory": "/Share",
   "maxItems": 100,
   "googleFontSans": "Inter",
   "googleFontMono": "Fira Mono",
